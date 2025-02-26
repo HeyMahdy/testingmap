@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.md": "makefile",
+        "iostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
